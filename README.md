@@ -1,5 +1,8 @@
 # portfolio-
 I have built a portfolio website by using HTML
+
+
+
 <!DOCTYPE html>
 <html lang = "en">
     <head>
@@ -36,7 +39,6 @@ I have built a portfolio website by using HTML
             <h1>Sravya Repalle</h1>
             <img src="c:\Users\sravy\OneDrive\Documents\myimage.jpg" alt="A photo of me">
             <p>I am passionate web developer with a focus on front-end technologies.</p>
-    
             <p>I am an B tech Graduate in the stream <em> ECE</em>in<em>Chalapthi Institue of Technology</em>Guntur.</p>
             <p>I have learnt web development from<br> Kodnest.</p>
             <p>you can <strong>Click here</strong> to check out what I have learnt in HTML, CSS, JS.</p>
