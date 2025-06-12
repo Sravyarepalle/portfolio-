@@ -1,2 +1,2 @@
 # portfolio-
-I have built a portfolio website by using HTM
+I have built a portfolio website by using HTML
